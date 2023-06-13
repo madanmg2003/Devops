@@ -1,0 +1,11 @@
+---
+- hosts: all
+  tasks: 
+  - name: I want to ping
+     ping:
+   
+  - name: I want to install webserver
+    apt:
+       name: apache2
+       state: present
+

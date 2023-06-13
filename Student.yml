@@ -1,0 +1,22 @@
+---
+- Students:
+  - name: anil
+    phone: 9990909090
+    address: 
+      door: 898
+      street: 4main
+      pin: 87877
+
+  - name: suresh
+    phone: 65656565655
+    address: 
+        door: 776
+        street: 8main
+        pin: 86435
+
+  - name: krishna
+    phone: 44444444444
+    address: 
+       door: 444
+       street: 6main
+       pin: 33333
